@@ -1,11 +1,11 @@
-click
+click==8.0.3
 colorama
 Flask
 importlib-metadata
 itsdangerous
-Jinja2
+Jinja2==3.0.3
 joblib
-MarkupSafe
+MarkupSafe 2.0.1
 numpy
 pandas
 python-dateutil
@@ -17,3 +17,4 @@ threadpoolctl
 Werkzeug
 zipp
 gunicorn
+blinker==1.4
